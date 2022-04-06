@@ -1,21 +1,21 @@
 const staticDevCoffee = "dev-coffee-site-v1";
 const assets = [
-  "/",
-  "/index.html",
-  "/css/style.css",
-  "/js/app.js",
-  "/images/coffee1.jpg",
-  "/images/coffee2.jpg",
-  "/images/coffee3.jpg",
-  "/images/coffee4.jpg",
-  "/images/coffee5.jpg",
-  "/images/coffee6.jpg",
-  "/images/coffee7.jpg",
-  "/images/coffee8.jpg",
-  "/images/coffee9.jpg",
-    "/images/k1.jpg",
-      "/images/k2.jpg",
-        "/images/k3.jpg"
+  "/pwa/",
+  "/pwa/index.html",
+  "/pwa/css/style.css",
+  "/pwa/js/app.js",
+  "/pwa/images/coffee1.jpg",
+  "/pwa/images/coffee2.jpg",
+  "/pwa/images/coffee3.jpg",
+  "/pwa/images/coffee4.jpg",
+  "/pwa/images/coffee5.jpg",
+  "/pwa/images/coffee6.jpg",
+  "/pwa/images/coffee7.jpg",
+  "/pwa/images/coffee8.jpg",
+  "/pwa/images/coffee9.jpg",
+    "/pwa/images/k1.jpg",
+      "/pwa/images/k2.jpg",
+        "/pwa/images/k3.jpg"
 ];
 
 self.addEventListener("install", installEvent => {
