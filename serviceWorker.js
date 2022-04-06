@@ -1,6 +1,7 @@
 const staticDevCoffee = "dev-coffee-site-v1";
 const assets = [
   "/pwa/",
+  "/pwa/map.html",
   "/pwa/index.html",
   "/pwa/css/style.css",
   "/pwa/js/app.js",
